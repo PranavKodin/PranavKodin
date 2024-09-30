@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **bhenchod time nhi milta**
 
+- ![MuaKissGIF](https://github.com/user-attachments/assets/996853ae-5a82-4d70-8543-4f28ec938af7)
+ 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranavkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavkumar" height="30" width="40" /></a>
