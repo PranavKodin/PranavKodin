@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **bhenchod time nhi milta**
 
-- ![CoreKeeperCoreGIF](https://github.com/user-attachments/assets/5dda201a-bc81-44d5-9633-8e286a87020d) see my css work on www.heymahodaye.com
+- ⌨️ have a look at html - css work on www.heymahodaye.com
 
  
 
