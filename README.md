@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **bhenchod time nhi milta**
 
-- ![MuaKissGIF](https://github.com/user-attachments/assets/996853ae-5a82-4d70-8543-4f28ec938af7)
+- ![CoreKeeperCoreGIF](https://github.com/user-attachments/assets/5dda201a-bc81-44d5-9633-8e286a87020d) see my css work on www.heymahodaye.com
+
  
 
 <h3 align="left">Connect with me:</h3>
