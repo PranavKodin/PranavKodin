@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **sunny.pranav2006@gmail.com**
 
-- ⚡ Fun fact **bhenchod time nhi milta**
+- ⚡ Fun fact **siuuuu**
 
-- ⌨️ have a look at html - css work on www.heymahodaye.com
+- 🖥️ have a look at my html css work on www.heymahodaye.site 
 
  
 
