@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **siuuuu**
 
-- 🖥️ Have a look at my html css work                        on www.heymahodaye.site 
+- 🖥️ Have a look at my html css work                on www.heymahodaye.site 
 
  
 
