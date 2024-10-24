@@ -19,7 +19,7 @@ Your browser does not support the video tag.
 </video>
 
 
-<img src="" alt="pranavkodin" /></h3>
+<img src="https://pin.it/1OjZ4CkGE" alt="pranavkodin" /></h3>
 
  
 
