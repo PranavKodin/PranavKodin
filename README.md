@@ -13,7 +13,7 @@
 
 - 🖥️ Have a look at my html css work on www.heymahodaye.site
 
-![Uploading 03071a2c56dc599d55a715173e648920.gif…]()
+![download](https://github.com/user-attachments/assets/3ad17c56-224c-44b5-812f-677c9ba0cb6a)
 
  
 
