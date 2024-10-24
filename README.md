@@ -13,7 +13,7 @@
 
 - 🖥️ Have a look at my html css work on www.heymahodaye.site
 
-<img src="https://pin.it/1OjZ4CkGE" alt="pranavkodin" /></h3>
+![Uploading 03071a2c56dc599d55a715173e648920.gif…]()
 
  
 
