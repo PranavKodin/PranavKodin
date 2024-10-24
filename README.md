@@ -13,8 +13,13 @@
 
 - 🖥️ Have a look at my html css work on www.heymahodaye.site
 
+<video width="320" height="240" controls>
+  <source src="https://pin.it/7eYZQJ7h7" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-<img src="https://pin.it/7eYZQJ7h7" alt="pranavkodin" /></h3>
+
+<img src="" alt="pranavkodin" /></h3>
 
  
 
