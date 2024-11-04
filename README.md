@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, html, css**
 
-- 📫 How to reach me **sunny.pranav2006@gmail.com**
+- 📫 How to reach me **pranavkodin@gmail.com**
 
 - ⚡ Fun fact **siuuuu**
 
