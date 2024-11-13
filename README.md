@@ -15,7 +15,7 @@
 
 <h3 align="center">What i mean when I say 'I love pixelated games'</h1>
 
-![Uploading pixelated games i love - Made with Clipchamp.gif…]()
+
 
 
 
