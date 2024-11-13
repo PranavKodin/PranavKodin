@@ -14,6 +14,7 @@
 - 🖥️ Have a look at my html css work on www.heymahodaye.site
 
 <h3 align="center">What i mean when I say 'I love pixelated games'</h1>
+![](https://github.com/PranavKodin/pixx.gif)
 
 
 
