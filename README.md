@@ -13,9 +13,9 @@
 
 - 🖥️ Have a look at my html css work on www.heymahodaye.site
 
-<h3 align="center">Apke liye ek jhappi </h1>
+<h3 align="center">What i mean when I say 'I love pixelated games'</h1>
 
-![download](https://github.com/user-attachments/assets/3ad17c56-224c-44b5-812f-677c9ba0cb6a)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
