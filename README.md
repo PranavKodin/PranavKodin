@@ -15,7 +15,7 @@
 
 <h3 align="center">What i mean when I say 'I love pixelated games'</h1>
 [Watch the Pinterest Video](https://in.pinterest.com/pin/719801952975475063/)
-<img src="https://in.pinterest.com/pin/719801952975475063/"/>
+<source src="https://in.pinterest.com/pin/719801952975475063/" type="video/mp4">
 
 
 
