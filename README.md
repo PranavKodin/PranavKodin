@@ -14,7 +14,8 @@
 - 🖥️ Have a look at my html css work on www.heymahodaye.site
 
 <h3 align="center">What i mean when I say 'I love pixelated games'</h1>
-https://in.pinterest.com/pin/719801952975475063/
+![Pinterest Image](https://in.pinterest.com/pin/719801952975475063/)
+
 
 
 
